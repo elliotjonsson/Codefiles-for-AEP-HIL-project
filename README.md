@@ -139,6 +139,16 @@ aep_package_vr/                    # Root package folder
 - Logitech G27 steering wheel
 - Libraries: `pygame`, `inputs`, `socket`
 
+### On Meta Quest 3 (VR Headset)
+- **VR Program**: Download and install the VR application from the link below
+- **Download Link**: [VR Program for Meta Quest 3](https://drive.google.com/file/d/1o8UfGv3zOQDEk2olwaVFeMNh2V7p7X_I/view?usp=sharing)
+
+**Installation Instructions:**
+1. Download the VR program from the Google Drive link above
+2. Install the application on your Meta Quest 3 headset
+3. Ensure the VR headset is connected to the same network as the robot (192.168.149.x)
+4. Launch the VR application before starting the full system launch
+
 ---
 
 ## 🔌 Robot Connection Guide
