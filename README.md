@@ -139,6 +139,20 @@ aep_package_vr/                    # Root package folder
 - Logitech G27 steering wheel
 - Libraries: `pygame`, `inputs`, `socket`
 
+### On Meta Quest 3 (VR Headset)
+- **VR Program**: AEP VR Controller application for camera pan/tilt control
+- **Download Link**: [VR Program for Meta Quest 3 (APK)](https://drive.google.com/file/d/1o8UfGv3zOQDEk2olwaVFeMNh2V7p7X_I/view?usp=sharing)
+- **Note**: This link provides the VR application APK file needed for the system
+
+**Installation Instructions:**
+1. Download the VR program APK from the Google Drive link above
+2. Enable Developer Mode on your Meta Quest 3 headset (Settings → System → Developer)
+3. Install the APK file on your headset using sideloading (via Meta Quest Developer Hub, SideQuest, or ADB)
+4. Ensure the VR headset is connected to the same network as the robot (192.168.149.x)
+5. Launch the VR application before starting the full system launch with `ros2 run aep_package_vr aep_vr.launch.py`
+
+**Important**: Verify the downloaded file is the correct APK before installation
+
 ---
 
 ## 🔌 Robot Connection Guide
