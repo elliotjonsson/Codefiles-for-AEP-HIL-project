@@ -470,13 +470,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ### Institution
 **Chalmers University of Technology**  
-Department of Mechanics and Maritime Sciences  
+Mobility Engineering Masters Programme. 
 Gothenburg, Sweden
 
 ---
 
 **Project Year**: 2025  
-**Course**: Advanced Engineering Project (AEP)
+**Course**: Automotive Engineering Project (AEP)
 
 ---
 
